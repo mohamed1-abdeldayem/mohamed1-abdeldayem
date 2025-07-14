@@ -1,6 +1,9 @@
-https://github.com/mohamed1-abdeldayem/mohamed1-abdeldayem/blob/bdf25404e4fd3007f400eb8db810c7fe1d87cc91/Coding%20Work%20From%20Home%20GIF%20by%20Alliance.gif
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohamed1-abdeldayem/mohamed1-abdeldayem/bdf25404e4fd3007f400eb8db810c7fe1d87cc91/Coding%20Work%20From%20Home%20GIF%20by%20Alliance.gif" width="400" alt="Coding GIF" />
+</p>
 
 <h1 align="center">👋 Hello! Welcome to my GitHub profile!</h1>
+
 <p align="center">
 I'm <b>Mohamed Abdeldayem</b>, a Front-End Developer from 🇪🇬 <b>Egypt</b>. I'm passionate about building clean, responsive web applications and always eager to learn new technologies.
 </p>
