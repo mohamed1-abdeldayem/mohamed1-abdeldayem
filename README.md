@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAd/coding.gif" width="400" alt="Coding GIF" />
+  <img src="./assets/my-animation.gif" width="400" alt="My GIF" />
 </p>
+
 
 <h1 align="center">👋 Hello! Welcome to my GitHub profile!</h1>
 
