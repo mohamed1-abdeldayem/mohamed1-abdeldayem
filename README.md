@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAd/coding.gif" width="700" alt="Coding GIF" />
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"         alt="Welcome"/>
 </p>
 
 <h1 align="center">👋 Hello! Welcome to my GitHub profile!</h1>
