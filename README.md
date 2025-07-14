@@ -1,7 +1,7 @@
 <p align="center">
-  <img src=["https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRhaDJoMG9ncmtzZXJ1c2JqaG9nemYzZGxzdjNscHNxaDQxenJ6dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif)" width="400" alt="Coder Animated GIF" />
+  <img src="https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif" width="400" alt="Animated GIF" />
 </p>
->
+
 
 
 <h1 align="center">👋 Hello! Welcome to my GitHub profile!</h1>
