@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RjdXp6b2VlbGtnMHdob3U3YTRieHJ6ZnJ2YmtydjVqeHVrZ3lkdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" width="400" alt="Animated GIF" />
+  <img src="https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif" width="400" alt="Coder Animated GIF" />
 </p>
+>
 
 
 <h1 align="center">👋 Hello! Welcome to my GitHub profile!</h1>
