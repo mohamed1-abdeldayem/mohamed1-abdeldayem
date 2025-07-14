@@ -1,6 +1,12 @@
-<h1>👋 Hello! Welcome to my GitHub profile!</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Dev GIF" />
+</p>
 
-<p>I'm <b>Mohamed Abdeldayem</b>, a Front-End Developer from 🇪🇬 <b>Egypt</b>. I'm passionate about building clean, responsive web applications and always eager to learn new technologies.</p>
+<h1 align="center">👋 Hello! Welcome to my GitHub profile!</h1>
+
+<p align="center">
+I'm <b>Mohamed Abdeldayem</b>, a Front-End Developer from 🇪🇬 <b>Egypt</b>. I'm passionate about building clean, responsive web applications and always eager to learn new technologies.
+</p>
 
 ---
 
