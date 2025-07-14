@@ -8,7 +8,6 @@
 I'm <b>Mohamed Abdeldayem</b>, a Front-End Developer from 🇪🇬 <b>Egypt</b>. I'm passionate about building clean, responsive web applications and always eager to learn new technologies.
 </p>
 
-
 ---
 
 ### 🎓 Education
@@ -61,6 +60,39 @@ I'm <b>Mohamed Abdeldayem</b>, a Front-End Developer from 🇪🇬 <b>Egypt</b>.
 - Front-End Development – ITI  
 - SQL Server – ITI  
 - College Community Support Training  
+
+---
+
+### 🔭 What I'm Currently Working On
+- Building a **React** project focused on dynamic UI and component-based architecture.
+
+---
+
+### 📚 Currently Learning
+- Diving into **Data Engineering** fundamentals, including data pipelines, ETL processes, and big data tools.
+
+---
+
+### 🛠️ Tools I Use
+- **Visual Studio Code**
+- **Code::Blocks**
+- **Jupyter Notebook**
+- **Figma**
+
+---
+
+### 🤝 Soft Skills
+- Team Collaboration  
+- Problem Solving  
+- Continuous Learning  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed1-abdeldayem&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 ---
 
