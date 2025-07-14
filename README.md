@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="[https://raw.githubusercontent.com/mohamed1-abdeldayem/mohamed1-abdeldayem/bdf25404e4fd3007f400eb8db810c7fe1d87cc91/Coding%20Work%20From%20Home%20GIF%20by%20Alliance.gif]" width="400" alt="Coding GIF" />
-</p>
+
+![Coding Work From Home GIF by Alliance](https://github.com/user-attachments/assets/a455d3e5-2ec7-4ecb-96d2-ccfc3577aedf)
+![Coding Artificial Intelligence GIF by Alliance](https://github.com/user-attachments/assets/27755bd9-38dc-4eb8-a2c0-2c36b69df7e6)
+![Work Working GIF by Alliance](https://github.com/user-attachments/assets/d3d8341b-25ec-40f9-a334-e80c0e5755f8)
+![Work Working GIF by Alliance (1)](https://github.com/user-attachments/assets/a5ed80d2-aebc-494e-9174-58770687fa31)
 
 <h1 align="center">👋 Hello! Welcome to my GitHub profile!</h1>
 
