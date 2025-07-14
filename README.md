@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohamed1-abdeldayem/mohamed1-abdeldayem/main/assets/coding.gif" width="400" alt="Coding GIF" />
+  <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAd/coding.gif" width="400" alt="Coding GIF" />
 </p>
 
 
