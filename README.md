@@ -1,9 +1,5 @@
 
-![Coding Work From Home GIF by Alliance](https://github.com/user-attachments/assets/a455d3e5-2ec7-4ecb-96d2-ccfc3577aedf)
-![Coding Artificial Intelligence GIF by Alliance](https://github.com/user-attachments/assets/27755bd9-38dc-4eb8-a2c0-2c36b69df7e6)
-![Work Working GIF by Alliance](https://github.com/user-attachments/assets/d3d8341b-25ec-40f9-a334-e80c0e5755f8)
-![Work Working GIF by Alliance (1)](https://github.com/user-attachments/assets/a5ed80d2-aebc-494e-9174-58770687fa31)
-
+<div class="tenor-gif-embed" data-postid="24297652" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/coding-gif-24297652">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h1 align="center">👋 Hello! Welcome to my GitHub profile!</h1>
 
 <p align="center">
