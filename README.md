@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/my-animation.gif" width="400" alt="My GIF" />
+  <img src="https://raw.githubusercontent.com/mohamed1-abdeldayem/mohamed1-abdeldayem/main/assets/coding.gif" width="400" alt="Coding GIF" />
 </p>
 
 
