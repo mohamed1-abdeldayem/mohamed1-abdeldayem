@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif" width="400" alt="Animated GIF" />
+  ![Work Working GIF by Alliance (1)](https://github.com/user-attachments/assets/a9683d85-24c5-4f16-87d6-c06416c9b25e)
+![Uploading Work Working GIF by Alliance.gif…]()
+
 </p>
 
 
