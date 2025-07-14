@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"         alt="Welcome"/>
+  <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAd/coding.gif" width="600" alt="Coding GIF" />
 </p>
 
 <h1 align="center">👋 Hello! Welcome to my GitHub profile!</h1>
@@ -7,6 +7,7 @@
 <p align="center">
 I'm <b>Mohamed Abdeldayem</b>, a Front-End Developer from 🇪🇬 <b>Egypt</b>. I'm passionate about building clean, responsive web applications and always eager to learn new technologies.
 </p>
+
 
 ---
 
